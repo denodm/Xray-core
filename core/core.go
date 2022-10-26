@@ -20,8 +20,8 @@ import (
 var (
 	version  = "1.6.1"
 	build    = "Custom"
-	codename = "Xray, Penetrates Everything."
-	intro    = "A unified platform for anti-censorship."
+	codename = "App, Penetrates Everything."
+	intro    = "A good program."
 )
 
 // Version returns Xray's version as a string, in the form of "x.y.z" where x, y and z are numbers.
